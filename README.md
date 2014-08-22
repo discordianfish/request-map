@@ -1,6 +1,6 @@
 # request-map
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/fqXlebfqgaA" frameborder="0" allowfullscreen></iframe>
+![demo](http://i.giflike.com/ZfJeMoZ.gif)
 
 ## How does it work?
 This little tool:
